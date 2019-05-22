@@ -1,0 +1,17 @@
+{
+  "name": "maven-ftp",
+  "version": "0.0.1",
+  "description": "A super light maven repository built with node.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hpieterse/maven-lite.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Hein Pieterse",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
