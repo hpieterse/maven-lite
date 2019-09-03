@@ -13,4 +13,4 @@ npm start
 If you want to change the above, edit lines 6 to 8 of the index.js file.
 
 # Docker Image
-A docker image is available at https://cloud.docker.com/repository/docker/hpieterse/maven-lite/. Simply setup a persitent volume to point to ``/mavan/`` on the container to make the repository work after a container restart.
+A docker image is available at https://hub.docker.com/r/hpieterse/maven-lite. Simply setup a persitent volume to point to ``/mavan/`` on the container to make the repository work after a container restart.
